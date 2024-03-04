@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-rawat-prof" alt="santosh-rawat-prof" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_santoshjaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/_JaiswalSantosh?logo=x&style=for-the-badge" alt="_JaiswalSantosh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_JaiswalSantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_JaiswalSantosh?logo=x&style=for-the-badge" alt="_JaiswalSantosh" /></a> </p>
 
 - 🔭 I’m currently working on [Corteva Agri-Products E-Commerce website](https://shop-corteva.netlify.app)
 

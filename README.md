@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-rawat-prof" alt="santosh-rawat-prof" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_santoshjaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/_santoshjaiswal?logo=twitter&style=for-the-badge" alt="_santoshjaiswal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_santoshjaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/_JaiswalSantosh?logo=x&style=for-the-badge" alt="_JaiswalSantosh" /></a> </p>
 
-- 🔭 I’m currently working on [pathology lab website](patholab.netlify.app)
+- 🔭 I’m currently working on [Corteva Agri-Products E-Commerce website](https://shop-corteva.netlify.app)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_santoshjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_santoshjaiswal" height="30" width="40" /></a>
+<a href="https://twitter.com/_JaiswalSantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_santoshjaiswal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santosh-rawat-prof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-rawat-prof" height="30" width="40" /></a>
 <a href="https://fb.com/santoshrawat.prof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santoshrawat.prof" height="30" width="40" /></a>
 <a href="https://instagram.com/santosh.rawat__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santosh.rawat__" height="30" width="40" /></a>

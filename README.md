@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
-- 👨‍💻 All of my projects are available at [currently working on portfolio](currently working on portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://santosh-rawat.netlify.app/)
 
 - 💬 Ask me about **javascript and react**
 
 - 📫 How to reach me **santoshrawat.prof@gmail.com**
 
-- 📄 Know about my experiences [creating cv](creating cv)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BYz-2SyLCSLl5zHn8oUuHyjqH6dzn46V/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am better at Front-End**
 

@@ -1,43 +1,61 @@
-<h1 align="center">Hi 👋, I'm Santosh Kumar Raut</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Santosh Kumar Raut</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🌱 &nbsp; Learning more about Web, Making Website and Web Apps.
+- ✍️ &nbsp; Pursuing Web Design and Music as hobbies/side hustles.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333?logo=Next.js)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333?style=flat&logo=Material-UI)
+- 📶 &nbsp;
+  ![FireStore](https://img.shields.io/badge/-FireStore-333?style=flat&logo=Firebase)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+
+<h3> 🧑‍💻 &nbsp;Top Languages</h3>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh-rawat-prof&layout=compact&theme=react" />
+
+<h3> 📈 &nbsp;Commit Stats</h3>
+
+<a href="https://github.com/santosh-rawat-prof">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosh-rawat-prof&show_icons=true&theme=react" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=santosh-rawat-prof&theme=react" alt="GitHub Streak" />
+
+</a>
+
+<br/>
+
+<a href="https://github.com/santosh-rawat-prof">
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=santosh-rawat-prof&theme=react-dark" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <a href="https://twitter.com/_JaiswalSantosh"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Santosh%20Rawat-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://www.instagram.com/santosh.rawat__"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-santosh.rawat__-blue?style=flat-square&logo=instagram"></a>
+  <a href="mailto:santoshrawat.prof@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santoshrawat.prof@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <img src="https://komarev.com/ghpvc/?username=santosh-rawat-prof&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-rawat-prof" alt="TidbitsJS :: Visitor's Count" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-rawat-prof&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-rawat-prof" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-rawat-prof" alt="santosh-rawat-prof" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_JaiswalSantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_JaiswalSantosh?logo=x&style=for-the-badge" alt="_JaiswalSantosh" /></a> </p>
-
-- 🔭 I’m currently working on [Corteva Agri-Products E-Commerce website](https://shop-corteva.netlify.app)
-
-- 🌱 I’m currently learning **ReactJs**
-
-- 👯 I’m looking to collaborate on **Front-End Projects**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://santosh-rawat.netlify.app/)
-
-- 💬 Ask me about **javascript and react**
-
-- 📫 How to reach me **santoshrawat.prof@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BYz-2SyLCSLl5zHn8oUuHyjqH6dzn46V/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am better at Front-End**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_JaiswalSantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_santoshjaiswal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santosh-rawat-prof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-rawat-prof" height="30" width="40" /></a>
-<a href="https://fb.com/santoshrawat.prof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santoshrawat.prof" height="30" width="40" /></a>
-<a href="https://instagram.com/santosh.rawat__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santosh.rawat__" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-rawat-prof&show_icons=true&locale=en&layout=compact" alt="santosh-rawat-prof" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-rawat-prof&show_icons=true&locale=en" alt="santosh-rawat-prof" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-rawat-prof&" alt="santosh-rawat-prof" /></p>
